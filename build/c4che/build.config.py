@@ -1,0 +1,2 @@
+version = 0x2001200
+tools = [{'tool': 'c', 'tooldir': None, 'funs': None}, {'tool': 'cxx', 'tooldir': None, 'funs': None}, {'tool': 'asm', 'tooldir': None, 'funs': None}, {'tool': 'cross_none_gnu', 'tooldir': None, 'funs': None}, {'tool': 'cross_none_objcopy', 'tooldir': None, 'funs': None}, {'tool': 'isix_link', 'tooldir': None, 'funs': None}, {'tool': 'build_summary', 'tooldir': None, 'funs': None}, {'tool': 'isix_cpudb', 'tooldir': None, 'funs': None}, {'tool': 'isix_toolchain', 'tooldir': None, 'funs': None}, {'tool': 'isix_jtagprg', 'tooldir': None, 'funs': None}]
